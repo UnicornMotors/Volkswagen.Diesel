@@ -21,6 +21,7 @@ Krzysztof Sieradzki
 - [272° PIPER Camshaft + mechanical lifters installation and torque to specs for 1.9 TDI PD engine](https://youtu.be/I8o8FBjvtFE)
 - [Checking Piston Ring Gap for 1.9 TDI PD ASZ / Verificarea tolerantelor segmentilor in cilindrii](https://youtu.be/6S3tLXSrd4w)
 - [Timing belt change for 1.9PDTDI engines (Hungarian language)](https://youtu.be/PwZGG4VXxf0)
+- [How To VW 1.9 TDI PD 130 Timing Belt](https://youtu.be/rZsBeJ9sqYA)
 
 # Injector
 - [Pump injector assembly 1.4TDI 1.9TDI 2.0TDI 2.5TDI](https://youtu.be/dS-4C0qGOMc)
