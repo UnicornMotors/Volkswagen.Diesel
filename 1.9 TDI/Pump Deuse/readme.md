@@ -1,6 +1,6 @@
 Inspire.
 # Rebuild
-playlist: [VW AUDI 1.9 TDI AVF ENGINE REBUILD](https://www.youtube.com/playlist?list=PL4Hld1o2yWN0pvrGu72ovcWqli6AZEdDa)
+## playlist: [VW AUDI 1.9 TDI AVF ENGINE REBUILD](https://www.youtube.com/playlist?list=PL4Hld1o2yWN0pvrGu72ovcWqli6AZEdDa)
 Krzysztof Sieradzki
 7 videos
 - [VW AUDI 1.9 TDI PD AVF ENGINE REBUILD - DISASSEMBLY - PART 1](https://youtu.be/s2Vrbe-iuR4)
@@ -8,6 +8,9 @@ Krzysztof Sieradzki
 - [VW AUDI 1.9 TDI PD AVF ENGINE REBUILD - ASSEMBLY - PART 3](https://youtu.be/h2gyYzRiPog)
 - [VW AUDI 1.9 TDI PD AVF ENGINE REBUILD - ASSEMBLY - TIMING BELT, PUMP INJECTORS HF100 - PART 4](https://youtu.be/eQNH9-k19fI)
 - [VW AUDI 1.9 TDI PD AVF ENGINE REBUILD - ASSEMBLY - TURBOCHARGER, EXHAUST MANIFOLD, CLUTCH - PART 5](https://youtu.be/WqBlMuzox4A)
+
+##
+- [Engine Block Rebuild from zero [1.9 tdi PD130] *english subtitle](https://youtu.be/iuiPoFfkZF8)
 
 # Procedure
 - [VW PD injector, Remove, Reseal , and install, The complete Job](https://youtu.be/Ou1bFAMed2w)
