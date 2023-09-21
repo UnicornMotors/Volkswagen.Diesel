@@ -19,6 +19,14 @@ https://forums.tdiclub.com/index.php?threads/2006-brm-tdi-questions-about-egr-co
 >Disconnected exhaust from connector in the middle of the car.
 >Disconnected the exhaust from the turbo.
 
+### EGR Valve and Cooler Delete.pdf v1.2
+sch: https://www.google.com/search?q=EGR+Valve+and+Cooler+Delete.pdf+v1.2
+
+doc: https://www.scribd.com/document/444801383/EGR-Valve-Cooler-Delete-BKD
+
+https://www.mk5golfgti.co.uk/forum/index.php?topic=72241.0
+>Handy PDF Version Now Available: EGR Valve and Cooler Delete.pdf v1.2
+
 # Bolts
 ## Mounting bolts to Engine Block:
 - T30 Torx head
