@@ -4,10 +4,20 @@ https://forums.tdiclub.com/index.php?threads/2006-brm-egr-cooler-replacement-pro
 Quote:
 >It's pretty straight forward. In a nut shell remove the right axle, bracket for the downpipe, loosen downpipe at turbo, remove EGR piping, coolant hoses and oil return line.
 
-https://forums.tdiclub.com/index.php?threads/2006-brm-tdi-questions-about-egr-cooler.350484/
-
 video:
 - [BRM TDI EGR Delete *Informational/Off-road use*](https://youtu.be/_C_rEMWlYf4)
+
+## Steps:
+https://forums.tdiclub.com/index.php?threads/2006-brm-tdi-questions-about-egr-cooler.350484/
+
+>It said to disconnect wiring harness to oxygen sensor.
+>remove drivers axle.
+>Disconnect coolant lines
+>Disconnected the connecting pipe from egr cooler to exhaust manifold.
+>Disconnect turbo oil return line.
+>Removed egr cooler bolts. One requires the following.
+>Disconnected exhaust from connector in the middle of the car.
+>Disconnected the exhaust from the turbo.
 
 # Bolts
 ## Mounting bolts to Engine Block:
