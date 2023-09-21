@@ -6,3 +6,8 @@ Quote:
 
 video:
 - [BRM TDI EGR Delete *Informational/Off-road use*](https://youtu.be/_C_rEMWlYf4)
+
+# Bolts
+Mounting bolts to Engine Block:
+- sch: https://www.google.com/search?q=BRM+TDI+EGR+bolts
+- T30 Torx head
