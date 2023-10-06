@@ -1,0 +1,1 @@
+- [Michigan to Texas - Driving 1250 miles for $115](https://youtu.be/Ra5oH64LOuM)
