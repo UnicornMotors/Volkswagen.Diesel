@@ -6,4 +6,5 @@ https://forums.tdiclub.com/index.php?threads/volkswagen-tdi-alh-vacuum-diagrams-
 # engine: BRM
 sch: https://www.google.com/search?q=volkswagen+tdi+BRM+vacuum+diagram, https://www.google.com/search?q=volkswagen+tdi+BRM+vacuum+lines
 
-https://forums.tdiclub.com/index.php?threads/vaccum-diagram-2006-jetta-brm-engine.480908/
+- https://forums.tdiclub.com/index.php?threads/vaccum-diagram-2006-jetta-brm-engine.480908/
+- https://forums.tdiclub.com/index.php?media/brm-vacuum-lines-and-components-in-color.121372/
