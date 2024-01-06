@@ -8,3 +8,4 @@ sch: https://www.google.com/search?q=volkswagen+tdi+BRM+vacuum+diagram, https://
 
 - https://forums.tdiclub.com/index.php?threads/vaccum-diagram-2006-jetta-brm-engine.480908/
 - https://forums.tdiclub.com/index.php?media/brm-vacuum-lines-and-components-in-color.121372/
+- https://forums.tdiclub.com/index.php?threads/help-vw-mkv-brm-turbo-vacuum-issue.492864/
