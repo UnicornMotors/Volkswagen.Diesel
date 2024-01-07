@@ -7,6 +7,12 @@ sch: https://www.youtube.com/results?search_query=1.9+TDI+turbocharger+rebuild, 
 # Rebuild
 - [Vw 1.9 TDI Turbo rebuild ALH - Part 1 GT1749V](https://youtu.be/PU2ucUpKH5Y)
 - [VW 1.9t Diesel Turbo Rebuild](https://youtu.be/OwpS-0MRltM)
+- [Rebuild of Volkswagen Passat TDI Turbocharger](https://youtu.be/383_UnJESP4)
 
 # Disassembly
 - [How to clean/disassemble a VNT TURBO (VW Passat Audi Seat Skoda limp mode Limpieza)](https://youtu.be/fnFENBW6Nbs)
+
+# Cassette
+sch: https://www.youtube.com/results?search_query=volkswagen+tdi+turbo+cassette
+
+- [Is this $100 eBay ALH TDI Turbo Cartridge any Good?!](https://youtu.be/gwG8E0PNwjA)
