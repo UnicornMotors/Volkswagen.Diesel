@@ -1,0 +1,2 @@
+> Check the boost pipe connections, down at the intercooler and up at the inlet manifold, they're a bit bad at coming off or at least being pretty loose, check any seals aren't missing from the connections and that they are nice and tight. The smoke and low power together suggest a possible boost leak.:)
+> - https://forums.tdiclub.com/index.php?threads/no-power-and-black-smoke-on-excelleration.318076/#post-3404202
