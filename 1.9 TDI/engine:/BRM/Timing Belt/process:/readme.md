@@ -1,3 +1,6 @@
 - [A5 BRM TDI DIY timing belt replacement: "Paint n Pray" vs Timing tools](https://youtu.be/t4xr7JYy3jk)
 - [VW A5: BRM TDI Timing Belt removal Part 1](https://youtu.be/Lp46bWUA1bY)
 - [BEW TDI Timing belt replacement and Torsion Value adjustment](https://youtu.be/TRsX_SV1UZQ)
+
+# relation: Mk6
+- [Volkswagen Golf TDI Water Pump & Timing Belt Replacement DIY (2009-2013 Mk6 VW Golf TDI, Jetta TDI)](https://youtu.be/7CxqtCgjXaE)
