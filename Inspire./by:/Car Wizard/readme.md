@@ -1,3 +1,3 @@
 - [I Bought a Cheap, BROKEN Dieselgate VW Golf TDI! WHY?!?](https://youtu.be/75buEMYS0wc)
 - [I Fixed My TDI Golf and It BROKE Again!](https://youtu.be/o3tmx47TrTk)
-- [Is This VW TDI Worth a $4k Repair Bill?](
+- [Is This VW TDI Worth a $4k Repair Bill?](https://youtu.be/2YH9CQ6sFPg)
