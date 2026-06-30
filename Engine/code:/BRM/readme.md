@@ -1,7 +1,9 @@
-https://www.google.com/search?q=volkswagen+1.9+BRM
+# **my.volkswagen has a BRM engine**
 
-https://www.reddit.com/r/tdi/comments/111byez/thoughts_on_the_brm_motor/
+https://www.google.com/search?q=volkswagen+1.9+BRM
 
 - [VW TDI BRM Cam Replacement](https://youtu.be/oQcgSJj61EY)
 
-**my.volkswagen has a BRM engine**
+# Discuss:
+- https://forums.tdiclub.com/index.php?threads/bew-or-brm.314892/
+- https://www.reddit.com/r/tdi/comments/111byez/thoughts_on_the_brm_motor/
