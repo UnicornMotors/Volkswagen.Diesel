@@ -1,0 +1,2 @@
+- [Things I Wish I knew Before Buying a VW TDI](https://youtu.be/56T2XdwH4hU)
+- [I Bought a Cheap, BROKEN Dieselgate VW Golf TDI! WHY?!?](https://youtu.be/75buEMYS0wc)
